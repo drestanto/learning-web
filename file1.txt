@@ -1,3 +1,4 @@
 halo 1
 ini file 1
+ada baris baru
 editan baru

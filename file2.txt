@@ -1,3 +1,4 @@
 halo 2
+ada baris baru juga
 ini file 2
 untuk masukin ke git
