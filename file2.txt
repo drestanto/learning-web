@@ -1,3 +1,4 @@
 halo 2
 ini file 2
 untuk masukin ke git
+editan baru di bawah
